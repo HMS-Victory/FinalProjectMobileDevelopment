@@ -1,0 +1,6 @@
+the project is going to be a frontend app, with a small amount of backend work which will
+be for the login
+
+It could be an expense tracker app. It could be a music app made using react instead of
+html, and php. It could be a game, potentially which you have to log in to? I could simply
+make an app with a list of users and their data, and you can view yourself as a user. and can CreateReadUpdateDelete other users. Perhaps it can be a chat, and users can make posts on the chat, view their profiles and those of others.
